@@ -12,9 +12,9 @@ Use JavaScript, HTML, and CSS to create a custom webpage that showcases differen
 ## Analysis ##
 
 ### Results ###
-In addition to the date, users can now filter for the city, state, country, and shape. 
+The updated webpage can be accessed via GitHub Pages here: https://mcgrath41.github.io/UFOs/index.html. In addition to the date, users can now filter for the city, state, country, and shape. 
 
-As an example, the user may still filter only by date if desired:
+As an example, the user may still filter only by date if desired. The screen shot below shows an example with a filtered date of January 2nd, 2010 (Date = 1/2/2010):
 ![](/Resources/Date_filter.png)
 
 In addition, the user can now filter on any of the other criteria listed underneath the "Enter Date" box. The example below shows the results when filtering on sightings in the state of Texas (State = "tx").

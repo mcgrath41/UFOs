@@ -14,7 +14,17 @@ Use JavaScript, HTML, and CSS to create a custom webpage that showcases differen
 ### Results ###
 In addition to the date, users can now filter for the city, state, country, and shape. 
 
-For example, if the user wants to filter on 
+As an example, the user may still filter only by date if desired:
+![](/Resources/Date_filter.png)
+
+In addition, the user can now filter on any of the other criteria listed underneath the "Enter Date" box. The example below shows the results when filtering on sightings in the state of Texas (State = "tx").
+![](/Resources/State_filter.png)
+
+
+The user may reset all filters either by deleting any entries in the filter boxes, or by selecting "UFO Sightings" at the top left of the page as seen in the screen shot below: 
+![](/Resources/Reset_filter.png)
+
+
 
 ### Summary ###
 The added fitering options appear to function as expected. One drawback to the current webpage, however, is that the user does not know if any selections on which to filter exist in the data set or if the correct format was entered.  In the next phase of development, it is recommended to:
